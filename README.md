@@ -1,4 +1,4 @@
-# the-movement-slackbots
+# ucaa-slack
 
 ## Set Up
 
