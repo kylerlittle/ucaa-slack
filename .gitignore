@@ -8,3 +8,6 @@ env
 
 # python
 __pycache__
+
+# env
+set_env.sh
